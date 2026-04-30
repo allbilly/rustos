@@ -2,7 +2,6 @@
 
 # Todo
 
-githib copilot
 mv to new file
 
 ## A Freestanding Rust Binary
