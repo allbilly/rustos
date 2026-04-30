@@ -1,8 +1,9 @@
 # rustos
 
-# Todo
+Implementation of https://os.phil-opp.com/
 
-mv to new file
+# Todo
+- mv to new file
 
 ## A Freestanding Rust Binary
 
